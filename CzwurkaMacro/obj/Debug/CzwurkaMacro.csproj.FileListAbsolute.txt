@@ -1,0 +1,10 @@
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\bin\Debug\CzwurkaMacro.exe.config
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\bin\Debug\CzwurkaMacro.exe
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\bin\Debug\CzwurkaMacro.pdb
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\obj\Debug\CzwurkaMacro.csproj.AssemblyReference.cache
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\obj\Debug\CzwurkaMacro.Properties.Resources.resources
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\obj\Debug\CzwurkaMacro.csproj.GenerateResource.cache
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\obj\Debug\CzwurkaMacro.csproj.CoreCompileInputs.cache
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\obj\Debug\CzwurkaMacro.exe
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\obj\Debug\CzwurkaMacro.pdb
+C:\Users\Server\source\repos\CzwurkaMacro\CzwurkaMacro\obj\Debug\CzwurkaMacro.Form1.resources
